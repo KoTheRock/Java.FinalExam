@@ -1,0 +1,16 @@
+ru\gb\exam\shop\repositories\ProductRepository.class
+ru\gb\exam\shop\config\SecurityConfig.class
+ru\gb\exam\shop\service\ReviewService.class
+ru\gb\exam\shop\model\Product.class
+ru\gb\exam\shop\repositories\CategoryRepository.class
+ru\gb\exam\shop\repositories\UserRepository.class
+ru\gb\exam\shop\model\User.class
+ru\gb\exam\shop\service\ProductService.class
+ru\gb\exam\shop\controller\GlobalExceptionHandler.class
+ru\gb\exam\shop\service\UserService.class
+ru\gb\exam\shop\ShopApplication.class
+ru\gb\exam\shop\model\Category.class
+ru\gb\exam\shop\model\Review.class
+ru\gb\exam\shop\controller\ProductController.class
+ru\gb\exam\shop\controller\ReviewController.class
+ru\gb\exam\shop\repositories\ReviewRepository.class

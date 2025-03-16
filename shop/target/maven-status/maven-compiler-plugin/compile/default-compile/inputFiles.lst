@@ -1,0 +1,16 @@
+C:\projects\shop\src\main\java\ru\gb\exam\shop\config\SecurityConfig.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\controller\GlobalExceptionHandler.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\controller\ProductController.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\controller\ReviewController.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\model\Category.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\model\Product.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\model\Review.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\model\User.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\repositories\CategoryRepository.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\repositories\ProductRepository.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\repositories\ReviewRepository.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\repositories\UserRepository.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\service\ProductService.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\service\ReviewService.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\service\UserService.java
+C:\projects\shop\src\main\java\ru\gb\exam\shop\ShopApplication.java
